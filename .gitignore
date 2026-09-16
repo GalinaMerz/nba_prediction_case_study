@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+train_ver2.csv
+train_ver2.csv.zip
+test_ver2.csv.zip
+sample_submission.csv.zip
+santander_sample.parquet
+labels.parquet
+models.pkl
