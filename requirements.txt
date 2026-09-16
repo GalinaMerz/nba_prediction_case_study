@@ -1,0 +1,10 @@
+# Runtime — what the Streamlit demo needs
+streamlit==1.63.0
+pandas==3.0.5
+numpy==2.5.3
+pyarrow==25.0.1
+scikit-learn==1.9.1
+ 
+# Notebook-only (not needed to run app.py; uncomment to rerun the analysis)
+# ipykernel==7.3.0
+# lightgbm==4.7.0
